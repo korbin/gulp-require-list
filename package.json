@@ -1,0 +1,26 @@
+{
+  "name": "gulp-require-list",
+  "version": "0.0.1",
+  "description": "A gulp plugin for creating require manifests from directories.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/korbin/gulp-require-list"
+  },
+  "keywords": [
+    "gulp",
+    "require",
+    "manifest"
+  ],
+  "author": "korbin <k1@k1.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/korbin/gulp-require-list/issues"
+  },
+  "homepage": "https://github.com/korbin/gulp-require-list",
+  "dependencies": {
+    "object-path": "^0.8.1",
+    "through2": "^0.6.3",
+    "vinyl": "^0.4.6"
+  }
+}
